@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragmentation_Demo</string>
+    <string name="hello_from_fragement_2">Hello from fragement 2</string>
+    <string name="hello_world">Hello world</string>
+</resources>
